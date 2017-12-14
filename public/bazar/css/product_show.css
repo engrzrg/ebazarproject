@@ -1,0 +1,13 @@
+.product-show-panel{
+background-color: white;
+}
+.panel-inner-body{
+    padding: 15px;
+}
+.panel-inner-body img{
+    /*position: absolute;*/
+    padding: 5px;
+}
+.show-message-panel{
+    margin-top: 15px;
+}

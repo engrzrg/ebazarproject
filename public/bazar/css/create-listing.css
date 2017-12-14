@@ -1,0 +1,58 @@
+.img-span{
+    /*display: inline-block;*/
+    /*display: none;*/
+    border:solid gray;
+    background-color: white;
+    /*border-width:1px;/*/
+}
+.b-color{
+    border-color: red;
+}
+.error-color{
+    color: red;
+}
+.cat-table{
+    text-align: center;
+}
+.cat-col:hover{
+    cursor: pointer;
+    color: black;
+}
+.countDec{
+    text-align: right;
+}
+.countTitle{
+    text-align: right;
+}
+.form-process{
+    opacity: 0.4;
+
+}
+.form-process p{
+    padding-left: 5px;
+}
+.form-process-circle{
+
+    background: white;
+
+    border-radius: 50%;
+    height: 40px;
+    text-align: center;
+    font-size: 16px;
+
+}
+.form-process-circle p{
+    padding: 10px 0;
+}
+.btn-step1{
+    margin: 25px 0 0 15px;
+}
+.create-table tr  td{
+    padding-top: 20px ;
+}
+.form-process-hr{
+    position: relative;
+}
+.selected-images{
+    margin: 10px;
+}
